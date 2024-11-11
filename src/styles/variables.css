@@ -1,0 +1,18 @@
+:root {
+  --white-color: #fff;
+  --black-color: #000000;
+
+  --yellow: #fcc434;
+  --yellow-800: #261d08;
+
+  --gray-300: #1a1a1a;
+  --gray-200: #434343;
+  --gray-100: #3a3a3a;
+  --gray-50: #e5e5e5;
+
+  --delete-color: #e26456;
+
+  --font-family: "Poppins", sans-serif;
+  --container-width: 600px;
+  --border-radius: 20px;
+}
